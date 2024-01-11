@@ -1,1 +1,1 @@
-# Forma-o-Desenvolva-Aplica-es-Web-com-Javascript---Alura
+# Formacao-Desenvolva-Aplicacoes-Web-com-Javascript-Alura
